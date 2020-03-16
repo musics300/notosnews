@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,NotosNews
+#EXTINF:-1 group-title="WEB TV" tvg-name="Notos News" tvg-logo="https://notosmedia.gr/wp-content/uploads/2020/01/cropped-16508027_257467404678546_2657850027858755557_n.png",Notos News
 https://eco.streams.ovh/notos/notos/chunklist_w1265351016.m3u8
