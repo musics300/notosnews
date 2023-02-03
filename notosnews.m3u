@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="TEST",Ρόδος Ψαροπούλα
-http://s61.ipcamlive.com/streams/3dbn2qltuujjta6ny/stream.m3u8
+http://s61.ipcamlive.com/streams/3dmy6zxagsti7ewxv/stream.m3u8
+#EXTINF:-1 group-title="TEST",Ρόδος Λιμάνι
+https://pluto13.cybex.gr/hls/mc143cx869616.m3u8
 #EXTINF:-1 group-title="TEST",ONE TV
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 group-title="TEST",ERA RODOS
